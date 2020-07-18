@@ -1,0 +1,46 @@
+body{font-family: arial, sans-serif;
+text-transform: capitalize;
+}
+h2{color :rgb(153, 65, 38)}
+h3{color: rgb(153, 65, 38)}
+header{background:rgb(117, 55, 18);
+
+}
+
+a , h1 {color: rgb(227, 199, 188);
+}
+
+p{color:rgb(117, 49, 9);
+font-family: 'Josefin Sans', sans-serif;
+font-size: 1.5em;
+}
+body{background: 
+
+#E1EBEA
+}
+img{margin-left: 40px;
+	transition: all .5s ease-in 0s ;
+}
+img:hover{transform: scale(1.1 ,1.1);
+	margin: 20px;
+	padding: 5px;
+}
+.grid-container{
+height: 300px;
+width: 800px;
+background: #D5E0DF;
+display: grid;
+justify-content: center;
+
+
+}
+#item{background: #D6C3B6;
+margin:10px;
+padding-left: 10px;
+
+
+}
+#insta{color: #ba5d23;
+border: 2px  solid #ba5d23; 
+padding: 5px;
+}
